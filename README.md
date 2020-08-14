@@ -6,3 +6,8 @@ https://tools.usps.com/go/TrackConfirmAction.action?tLabels=TRACKINGNUMBER
 <BR><BR>
 FedEx<BR>
 https://www.fedex.com/fedextrack/?tracknumbers=TRACKINGNUMBER
+
+
+
+References:
+https://coderwall.com/p/gxv7cw/tracking-number-permalinks-ups-usps-fedex
